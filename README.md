@@ -1,0 +1,1 @@
+A reverse shell written in python that persists and reconnects when listener closes or sends an exit command. Shell auto reconnects, listener can perform sudo commands without losing interaction with target computer. 
